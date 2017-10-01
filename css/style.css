@@ -1,0 +1,24 @@
+.bg-img {
+  background-image: url('../imgs/amsterdam-12.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0px;
+  left: 0;
+}
+h1{
+  font-family: 'Carter One', 'Roboto';
+  color: aquamarine;
+  text-align: center;
+  text-shadow: 0 20px 50px black;
+  margin-top: 200px;
+  margin-top: 50%;
+}
+h2{
+  color: white;
+  text-align: center;
+}
